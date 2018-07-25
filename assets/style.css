@@ -1,0 +1,41 @@
+.skyblue {
+    background-color: skyblue;
+}
+
+.title-font {
+    font-family: Lobster;
+}
+
+.title-two-font {
+    font-family: 'Encode Sans Condenced', sans-serif;
+}
+
+.btn-lg.round {
+	border-radius: 24px;
+}
+
+/* * {
+    outline: 1px solid red;
+} */
+
+a:link {
+    color: white;
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+    opacity: 0.75;
+    filter: alpha(opacity=75);
+    text-decoration: none;
+}
+
+a:active {
+    color: white;
+    text-decoration: none;
+}
