@@ -1,6 +1,6 @@
-* {
+/* * {
     outline: 1px solid red;
-}
+} */
 
 .skyblue {
     background-color: skyblue;
@@ -87,7 +87,7 @@ a:active {
 }
 
 .bg-img {
-    background-image: url(//unsplash.it/1000/1000);
+    background-image: url(/assets/texting.jpg);
 }
 
 .footer-color {
